@@ -1,7 +1,7 @@
 ### Hi there 👋!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroVitor87" alt="PedroVitor87" /> </p>
 <p>- 🤓 I'm a System Analysis and Development student
-<p>- 📚 I’m currently learning Python
+<p>- 📚 I’m currently  estudando
 <p>- 📫 How to reach me: pedrovitor812.812@gmail.com
 
 Let's connect? 
