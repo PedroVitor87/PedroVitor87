@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração de computador"/>
 
-## 💜 Olá, meu nome é <strong>Pedro Vitor!</strong>
+<h2 style="border-bottom: none;">💜 Olá, meu nome é Pedro Vitor!</h2>
 
 <p align="left">
     Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Habilidades em Destaque:
+<h2 style="border-bottom: none;">🚀 Habilidades em Destaque:</h2>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -20,7 +20,7 @@
 
 ---
 
-## 📫 Onde me encontrar:
+<h2 style="border-bottom: none;">📫 Onde me encontrar:</h2>
 
 <p align="left">
   <a href="mailto:pedrovitor812.812@gmail.com" alt="Gmail">
