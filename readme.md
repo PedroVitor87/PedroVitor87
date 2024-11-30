@@ -1,8 +1,7 @@
 <h2 style="border-bottom: none;">💜 Olá, meu nome é Pedro Vitor!</h2>
 
 <p align="left">
-    Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, 
-    sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor. Meu objetivo é aprender e crescer na área de desenvolvimento Backend.
+    Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, minha trajetória me proporcionou experiência com linguagens como JavaScript, TypeScript, Python e tecnologias como o Node.js. Embora minha jornada tenha começado com projetos pessoais e acadêmicos, agora tenho a oportunidade de     aplicar e expandir minhas habilidades em um ambiente profissional, onde estou desenvolvendo aplicações backend e contribuindo para soluções web inovadoras.
 </p>
 
 <h2 style="border-bottom: none;">🚀 Habilidades em Destaque:</h2>
